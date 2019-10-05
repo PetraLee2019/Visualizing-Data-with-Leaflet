@@ -18,3 +18,4 @@ https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
 
 Images from the final app:
+![alt tag](https://github.com/PetraLee2019/Graduation-Rates-at-Colleges-and-Universities-in-the-U.S./blob/master/Graduation-Rates-at-Colleges-and-Universities-in-the-U.S..png?raw=true)
