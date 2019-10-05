@@ -10,7 +10,6 @@ Many people don't know how much seismic activity is happening around them all th
 This project is an example of how to use Leaflet.js to visualize geoJSON data. The javascript uses Leaflet layer control using basemaps and overlay maps. Below is a screenshot of the visualization. 
 
 ![alt tag](https://github.com/PetraLee2019/Visualizing-Data-with-Leaflet/blob/master/Images/Satellite.png?raw=true)
-![alt tag](https://github.com/PetraLee2019/Visualizing-Data-with-Leaflet/blob/master/Images/Heat.png?raw=true)
 
 Web application is deployed at the following link:
 Technology stack used in developing this web application is as follows:
