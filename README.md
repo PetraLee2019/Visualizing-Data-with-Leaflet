@@ -17,7 +17,7 @@ Leaflet/HTML/CSS/Bootstrap/Javascript/GeoJSON/D3
 Data Sources used :
 https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
-![alt tag](https://github.com/PetraLee2019/Visualizing-Data-with-Leaflet/blob/master/Images/Map.png?raw=true)
+![alt tag](https://github.com/PetraLee2019/Visualizing-Data-with-Leaflet/blob/master/Images/Data.png?raw=true)
 
 
 
