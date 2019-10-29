@@ -1,6 +1,6 @@
 
 # Visualizing-Data-with-Leaflet
-https://petralee2019.github.io/Visualizing-Data-with-Leaflet/
+Live Link: https://petralee2019.github.io/Visualizing-Data-with-Leaflet/
 ## Background
 For USGS (United States Geological Survey) visualization project, I have visualized earthquakes occurring globally using a live API feed provided by the USGS. The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. The data is updated every 5 mins, and includes all earthquake data for the Past 7 Days. Additional layer of tectonic plates to understand the relationship between tectonic plates and seismic activites is also included. 
 ![alt tag](https://github.com/PetraLee2019/Visualizing-Data-with-Leaflet/blob/master/Images/Satellite.png?raw=true)
